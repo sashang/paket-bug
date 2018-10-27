@@ -6,10 +6,6 @@ Clone this repo
 chmod +x .paket/paket.exe
 .paket/paket.exe install
 ```
-chmod +x .paket/paket.exe
-.paket/paket.exe install
-
-
 
 
 ## Expected output
